@@ -1,2 +1,9 @@
+<<<<<<< HEAD
+Texte dans main
+=======
 Texte dans la branche farah
+<<<<<<< HEAD
 x
+=======
+>>>>>>> farah
+>>>>>>> main
